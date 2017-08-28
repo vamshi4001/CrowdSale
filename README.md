@@ -9,7 +9,8 @@ truffle migrate
 Once successfully done, run 'truffle console' and execute following commands to check the contract
 
 
-```account1 = web3.eth.accounts[1]
+```
+account1 = web3.eth.accounts[1]
 
 VamshiCoinCrowdsale.deployed().then(inst => { crowdsale = inst })
 crowdsale.token().then(addr => { tokenAddress = addr } )
