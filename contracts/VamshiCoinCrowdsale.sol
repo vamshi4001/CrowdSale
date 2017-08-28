@@ -1,7 +1,7 @@
 pragma solidity ^0.4.11;
 
 import './VamshiCoin.sol';
-import '../../../node_modules/zeppelin-solidity/contracts/crowdsale/Crowdsale.sol';
+import '../node_modules/zeppelin-solidity/contracts/crowdsale/Crowdsale.sol';
 
 
 contract VamshiCoinCrowdsale is Crowdsale {
