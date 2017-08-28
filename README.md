@@ -27,3 +27,9 @@ web3.fromWei(account1GusTokenBalance, "ether")
 Get Ether for Ropsten Network 
 ==============================
 faucet.ropsten.be:3001 - go to this, enter your address of ropsten account and get 3 ETH.
+
+Deploying a truffle contract to ropsten
+=======================================
+https://medium.com/@guccimanepunk/how-to-deploy-a-truffle-contract-to-ropsten-e2fb817870c1
+Syncing Ropsten Network 
+https://ethereum.stackexchange.com/a/19366/17168
