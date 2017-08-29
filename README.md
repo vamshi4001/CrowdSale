@@ -1,6 +1,9 @@
 # CrowdSale
 Building a crowdsale smartcontract on ethereum using Truffle &amp; OpenZepplin
 
+Run npm install
+
+
 Testing Steps
 =============
 truffle compile
@@ -31,5 +34,9 @@ faucet.ropsten.be:3001 - go to this, enter your address of ropsten account and g
 Deploying a truffle contract to ropsten
 =======================================
 https://medium.com/@guccimanepunk/how-to-deploy-a-truffle-contract-to-ropsten-e2fb817870c1
-Syncing Ropsten Network 
+
+--Syncing Ropsten Network 
 https://ethereum.stackexchange.com/a/19366/17168
+
+--Installing geth
+http://www.ziggify.com/blog/blockchain-stack-1-installing-ethereum-geth-smart-contract/
