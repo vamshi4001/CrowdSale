@@ -38,5 +38,7 @@ https://medium.com/@guccimanepunk/how-to-deploy-a-truffle-contract-to-ropsten-e2
 --Syncing Ropsten Network 
 https://ethereum.stackexchange.com/a/19366/17168
 
+--More about testnets
+https://karl.tech/intro-guide-to-ethereum-testnets/
 --Installing geth
 http://www.ziggify.com/blog/blockchain-stack-1-installing-ethereum-geth-smart-contract/
