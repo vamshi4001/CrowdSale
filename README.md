@@ -42,3 +42,9 @@ https://ethereum.stackexchange.com/a/19366/17168
 https://karl.tech/intro-guide-to-ethereum-testnets/
 --Installing geth
 http://www.ziggify.com/blog/blockchain-stack-1-installing-ethereum-geth-smart-contract/
+
+--Auditing Contract
+“The ultimate guide to audit a Smart Contract + Most dangerous attacks in Solidity” @Merunas2 https://medium.com/@merunasgrincalaitis/how-to-audit-a-smart-contract-most-dangerous-attacks-in-solidity-ae402a7e7868
+
+--ICO Checklist
+https://medium.com/@merunasgrincalaitis/what-it-takes-to-create-a-successful-ico-how-expensive-it-is-your-complete-guide-35912722351e
