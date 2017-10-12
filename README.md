@@ -48,3 +48,6 @@ http://www.ziggify.com/blog/blockchain-stack-1-installing-ethereum-geth-smart-co
 
 --ICO Checklist
 https://medium.com/@merunasgrincalaitis/what-it-takes-to-create-a-successful-ico-how-expensive-it-is-your-complete-guide-35912722351e
+
+--Attacks on Ethereum Smart Contracts
+https://www.cryptologie.net/article/423/attacks-on-ethereum-smart-contracts/
